@@ -50,6 +50,9 @@ img {
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/patralika.jpg">
     <h3 style="text-align: center"><a>Patralika Ghosh</a></h3>
   </div>
+  <div class="column">
+    <h3 style="text-align: center"><a>Diane Lee</a></h3>
+  </div>
 </div>
 
 ### Spring and Summer 2022

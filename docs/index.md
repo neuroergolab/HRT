@@ -51,6 +51,7 @@ img {
     <h3 style="text-align: center"><a>Patralika Ghosh</a></h3>
   </div>
   <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/diane.JPG">
     <h3 style="text-align: center"><a>Diane Lee</a></h3>
   </div>
 </div>

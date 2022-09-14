@@ -42,6 +42,14 @@ img {
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/Thomas.JPG">
     <h3 style="text-align: center"><a>Thomas Bolf</a></h3>
   </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/malik.jpeg">
+    <h3 style="text-align: center"><a>Malik Rawashdeh</a></h3>
+  </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/patralika.jpg">
+    <h3 style="text-align: center"><a>Patralika Ghosh</a></h3>
+  </div>
 </div>
 
 ### Spring and Summer 2022

@@ -35,16 +35,12 @@ img {
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/carlos-meisel/">Carlos Meisel</a></h3>
   </div>
   <div class="column">
-    <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
-    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
-  </div>
-  <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/Thomas.JPG">
     <h3 style="text-align: center"><a>Thomas Bolf</a></h3>
   </div>
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/malik.jpeg">
-    <h3 style="text-align: center"><a>Malik Rawashdeh</a></h3>
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/malik-rawashdeh-a5678b1b6/">Malik Rawashdeh</a></h3>
   </div>
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/patralika.jpg">
@@ -53,6 +49,10 @@ img {
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/diane.JPG">
     <h3 style="text-align: center"><a>Diane Lee</a></h3>
+  </div>
+    <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
   </div>
 </div>
 

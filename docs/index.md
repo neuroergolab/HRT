@@ -39,7 +39,7 @@ img {
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
   </div>
   <div class="column">
-    <img style="border-radius: 30%; width: 50%; float: center" src="assets/Thomas.JPG">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/Thomas.JPG">
     <h3 style="text-align: center"><a>Thomas Bolf</a></h3>
   </div>
   <div class="column">

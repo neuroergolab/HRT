@@ -47,7 +47,7 @@ Participants will be compensated at a rate of $10/hour. The study is expected to
 9. No known history of photosensitive epilepsy
 10. Not pregnant
 
-If you are interested in participating, please [register](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) or email Aakash (aakash@tamu.com) for more information about the study!
+If you are interested in participating, please [REGISTER](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) or email Aakash (aakash@tamu.com) for more information about the study!
 
 
 ## Team

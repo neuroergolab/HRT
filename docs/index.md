@@ -19,6 +19,18 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 </style>
 
 
@@ -26,11 +38,14 @@ img {
 
 ## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in our research study and get paid $10/hour!
 
+<!-- create a button for url -->
+<a href="https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark" class="button">Participate</a>
+
 
 The Neuroergonomics lab at the Texas A&M Industrial and Systems Engineering Department is looking for participants for conducting a research study on human-robot teaming. This study was approved by the TAMU Institutional Review Board (IRB2022-0473DCR) on 10/05/2022.
 
 **What will you be doing?**
-Participants will attend one, three-hour session and work in a team comprising of three agents. The other two agents will be a combination of other participants and a simulated robot. The team will be carrying out a search of victims in a virtual environment simulating emergency situation. During the session, brain activity, heart rate, and eye tracking will be measured.
+Participants will attend one, four-hour session and work in a team comprising of three agents. The other two agents will be a combination of other participants and a simulated robot. The team will be carrying out a search of victims in a virtual environment simulating emergency situation. During the session, brain activity, heart rate, and eye tracking will be measured.
 
 **Where?**
 The study will be conducted in room 2005C of Emerging Technologies Building, 101 Bizzell St, College Station, TX 77843.

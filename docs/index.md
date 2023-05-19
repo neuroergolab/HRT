@@ -69,8 +69,10 @@ Participants will be compensated at a rate of $10/hour. The study is expected to
 
 If you are interested in participating, please [REGISTER](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) or email Aakash (aakash@tamu.com) for more information about the study!
 
+<br>
+<br>
 
-## Team
+## Research Team
 
 ### Summer 2023
 

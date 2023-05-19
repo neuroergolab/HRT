@@ -26,7 +26,8 @@ img {
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  /* display in the center */
+  display: block;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
@@ -36,11 +37,12 @@ img {
 
 # Participate in Our Research
 
-## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in our research study and get paid $10/hour!
+## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in research and get paid $10/hour!
 
 <!-- create a button for url -->
 <a href="https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark" class="button">Participate</a>
 
+<br>
 
 The Neuroergonomics lab at the Texas A&M Industrial and Systems Engineering Department is looking for participants for conducting a research study on human-robot teaming. This study was approved by the TAMU Institutional Review Board (IRB2022-0473DCR) on 10/05/2022.
 

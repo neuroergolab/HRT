@@ -44,6 +44,7 @@ img {
 
 <br>
 
+**About us**
 The Neuroergonomics lab at the Texas A&M Industrial and Systems Engineering Department is looking for participants for conducting a research study on human-robot teaming. This study was approved by the TAMU Institutional Review Board (IRB2022-0473DCR) on 10/05/2022.
 
 **What will you be doing?**

@@ -40,7 +40,7 @@ img {
 <!-- ## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in research and get paid $10/hour! -->
 
 <!-- create a button for url -->
-<a href="https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark" class="button">Participate</a>
+<a href="https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark" class="button">Click to Register</a>
 
 <br>
 
@@ -201,17 +201,17 @@ Aakash Yadav [aakash@tamu.edu](mailto:aakash@tamu.edu) [![](https://img.shields.
 - [ROS](https://www.ros.org/)
 - [MATLAB](https://www.mathworks.com/)
 
-## Timeline
+<!-- ## Timeline -->
 
-## Participate
-In order to participate in this project, you will need to be physically present at the lab at TAMU. The experiment is currently undergoing internal testing, register [here](https://forms.gle/4YYi2Exzs5MyREZu5) to get notified when the experiment is ready.
+<!-- ## Participate
+In order to participate in this project, you will need to be physically present at the lab at TAMU. The experiment is currently undergoing internal testing, register [here](https://forms.gle/4YYi2Exzs5MyREZu5) to get notified when the experiment is ready. -->
 
 ## Provide Feedback
 Our team is always looking for feedback on our project. Please contact us at [aakash@tamu.edu](mailto:aakash@tamu.edu) or [nimrobotics@gmail.com](mailto:nimrobotics@gmail.com).
 
-<!-- reference the papers -->
+<!-- reference the papers
 ## References
 - [1] `Hopko, S. K., & Mehta, R. K. Neural Correlates of Trust in Automation: Considerations and Generalizability Between Technology Domains. Frontiers in Neuroergonomics, 26.`
 
-- [2] `Hopko, S. K., Khurana, R., Mehta, R. K., & Pagilla, P. R. (2021). Effect of Cognitive Fatigue, Operator Sex, and Robot Assistance on Task Performance Metrics, Workload, and Situation Awareness in Human-Robot Collaboration. IEEE Robotics and Automation Letters, 6(2), 3049-3056.`
+- [2] `Hopko, S. K., Khurana, R., Mehta, R. K., & Pagilla, P. R. (2021). Effect of Cognitive Fatigue, Operator Sex, and Robot Assistance on Task Performance Metrics, Workload, and Situation Awareness in Human-Robot Collaboration. IEEE Robotics and Automation Letters, 6(2), 3049-3056.` -->
 

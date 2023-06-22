@@ -37,7 +37,7 @@ img {
 
 # Participate in Our Research
 
-## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in research and get paid $10/hour!
+<!-- ## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in research and get paid $10/hour! -->
 
 <!-- create a button for url -->
 <a href="https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark" class="button">Participate</a>

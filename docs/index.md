@@ -34,44 +34,7 @@ img {
 }
 </style>
 
-
-# Participate in Our Research
-
-<!-- ## TLDR: [Participate](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) in research and get paid $10/hour! -->
-
-<!-- create a button for url -->
-<a href="https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark" class="button">Click to Register</a>
-
-<br>
-
-**About us**
-The Neuroergonomics lab at the Texas A&M Industrial and Systems Engineering Department is looking for participants for conducting a research study on human-robot teaming. This study was approved by the TAMU Institutional Review Board (IRB2022-0473DCR) on 10/05/2022.
-
-**What will you be doing?**
-Participants will attend one, four-hour session and work in a team comprising of three agents. The other two agents will be a combination of other participants and a simulated robot. The team will be carrying out a search of victims in a virtual environment simulating emergency situation. During the session, brain activity, heart rate, and eye tracking will be measured.
-
-**Where?**
-The study will be conducted in room 2005C of Emerging Technologies Building, 101 Bizzell St, College Station, TX 77843.
-
-**Compensation**
-Participants will be compensated at a rate of $10/hour. The study is expected to take 4 hours.
-
-**Eligibility**: You are/have:
-1. Between 18 and 45 years of age
-2. Proficient in English
-3. No implant device
-4. No visual, hearing, or limb impairments
-5. No known history of experiencing motion sickness
-6. No apparent physical or cognitive limitations that might influence performance in the study
-7. Not on any medications related to psychological/psychiatric/mental health problems
-8. No known allergies to latex, sensor adhesives, or electrode gels
-9. No known history of photosensitive epilepsy
-10. Not pregnant
-
-If you are interested in participating, please [REGISTER](https://tamu.qualtrics.com/jfe/form/SV_eo0kzCiiVRzIark) or email Aakash (aakash@tamu.com) for more information about the study!
-
-<br>
-<br>
+Checkout the [Lab Website](https://neuroergolab.org) for more information.
 
 ## Research Team
 

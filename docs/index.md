@@ -91,7 +91,7 @@ If you are interested in participating, please [REGISTER](https://tamu.qualtrics
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
   </div>
    <div class="column">
-    <img style="border-radius: 50%; width: 50%; float: center" src="assets/Jackie">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/Jackie.JPG">
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/jacqueline-aleman-66ab20227">Jacqueline Aleman</a></h3>
   </div>
 </div>

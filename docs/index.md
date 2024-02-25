@@ -38,6 +38,24 @@ Checkout the [Lab Website](https://neuroergolab.org) for more information.
 
 ## Research Team
 
+### Spring 2024
+
+<div class="row">
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/aakash.jpg">
+    <h3 style="text-align: center"><a href="https://nimrobotics.com/">Aakash</a></h3>
+  </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/aarav.jpeg">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/aarav-gupta-076596283/">Aarav Gupta </a></h3>
+  </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
+  </div>
+  
+</div>
+
 ### Summer 2023
 
 <div class="row">
